@@ -1,0 +1,29 @@
+{
+  "name": "tree-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-lodash": "^3.2.11",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "css-loader": "^0.21.0",
+    "eslint": "^3.15.0",
+    "eslint-plugin-react": "^6.9.0",
+    "jsdom": "^6.5.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.2"
+  }
+}
